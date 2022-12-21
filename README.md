@@ -19,7 +19,7 @@
 
 - 📫 How to reach me **tamaya.sara2@gmail.com**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/18SNalkieceAi6_TQoFj_Mw7CP9mDbPmkGtIF1LvSkQk/edit](https://docs.google.com/document/d/18SNalkieceAi6_TQoFj_Mw7CP9mDbPmkGtIF1LvSkQk/edit)
+- 📄 Know about my experiences https://docs.google.com/document/d/18SNalkieceAi6_TQoFj_Mw7CP9mDbPmkGtIF1LvSkQk/edit?usp=sharing
 
 - ⚡ Fun fact **I can drink coffee even before going to the bed**
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tamayasara" alt="tamayasara" /></a> </p>
