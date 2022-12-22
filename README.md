@@ -3,7 +3,7 @@
 
 <h1 align="center">Hi 👋, I'm Tamaya Sara</h1>
 <h3 align="center">An aspiring Software Engineer</h3>
-![comp](https://user-images.githubusercontent.com/95479134/209050920-3ed2c743-fed9-481b-b827-956a283dde39.gif)
+<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/95479134/209050920-3ed2c743-fed9-481b-b827-956a283dde39.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tamayasara&label=Profile%20views&color=0e75b6&style=flat" alt="tamayasara"/></p> 
 
