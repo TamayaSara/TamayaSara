@@ -5,7 +5,8 @@
 <h3 align="center">An aspiring Software Engineer</h3>
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/1400/1*qdAW1TjCN57h1lbuuzvchg.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=tamayasara&label=Profile%20views&color=0e75b6&style=flat" alt="tamayasara"/> </p>
+<p align="left">![comp](https://user-images.githubusercontent.com/95479134/209049628-b9c4a75e-0e90-4047-b9d7-da087bed7840.gif)</p> 
+
 
 
 
