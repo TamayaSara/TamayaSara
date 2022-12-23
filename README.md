@@ -1,7 +1,7 @@
 
 ![cat](https://user-images.githubusercontent.com/95479134/205569045-f4c5c4c8-e881-4d98-bc56-934e26998715.gif)
 
-<h1 align="center">Hi 👋, I'm Tamaya Sara</h1> <p align="right"> <img src=  ![cat-nyan-cat](https://user-images.githubusercontent.com/95479134/209248915-3ae99bad-53a4-491a-917a-fdf41c0ff9c3.gif)
+<h1 align="center">Hi 👋, I'm Tamaya Sara</h1> <p align="right"> <img src= "https://user-images.githubusercontent.com/95479134/209248915-3ae99bad-53a4-491a-917a-fdf41c0ff9c3.gif"
 alt="tamayasara"/></p> 
 <h3 align="center">An aspiring Software Engineer</h3>
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/95479134/209050920-3ed2c743-fed9-481b-b827-956a283dde39.gif">
