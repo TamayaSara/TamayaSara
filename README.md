@@ -19,8 +19,7 @@
 - 🤝 I’m looking for help with **getting SWE internships**
 
 - 📫 How to reach me **tamaya.sara2@gmail.com**
-
-- 📄 Know about my experiences [Resume.Tamaya_Sara.pdf](https://github.com/TamayaSara/TamayaSara/files/11835020/Resume.Tamaya_Sara.pdf)
+- 📄 Know about my experiences [Tamaya_Sara[Resume]  (1).pdf](https://github.com/user-attachments/files/18105329/Tamaya_Sara.Resume.1.pdf)
 
 
 
