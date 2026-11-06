@@ -7,7 +7,7 @@
 </h1>
 
 <h3 align="center">
-  💻 Java Developer | Software Engineer | M.S. in Analytics Student
+  💻 Java Developer | Senior Software Engineer | M.S. in CS
 </h3>
 
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/95479134/209050920-3ed2c743-fed9-481b-b827-956a283dde39.gif">
@@ -21,7 +21,7 @@
 
 - 💼 Currently working full-time as a **Java Developer**
 - 🎓 Graduated with a **B.S. in Computer Science** in December 2023
-- 📚 Currently pursuing an **M.S. in Analytics at Georgia Tech**
+- 📚 Currently pursuing an **M.S. in Computer Science at Georgia Tech**
 - 🌱 Continuously expanding my knowledge in **Software Engineering and Data Analytics**
 - 👯 Open to collaborating on **real-world software projects**
 - 💡 Interested in **software development, data analytics, and emerging technologies**
