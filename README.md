@@ -26,14 +26,14 @@
 - 👯 Open to collaborating on **real-world software projects**
 - 💡 Interested in **software development, data analytics, and emerging technologies**
 - 📫 How to reach me: **tamaya.sara2@gmail.com**
-- 📄 [View My Resume](https://github.com/user-attachments/files/18105329/Tamaya_Sara.Resume.1.pdf)
-- ⚡ Fun fact: **I can drink coffee right before bed and still fall asleep! ☕**
+- ⚡ Fun fact: **I have a twin😉**
 
 <!-- GITHUB TROPHIES -->
-<p align="left">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=tamayasara" alt="tamayasara" />
-  </a>
+
+<h3 align="left">🏆 GitHub Trophies</h3>
+
+<p align="center">
+  <img src="https://github-trophies.devomb.com/?username=tamayasara&theme=onedark&no-frame=true" alt="GitHub Trophies" />
 </p>
 
 <h3 align="left">Connect with me:</h3>
@@ -74,14 +74,17 @@
 </p>
 
 <!-- GITHUB STATISTICS -->
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tamayasara&show_icons=true&locale=en&layout=compact" alt="tamayasara" />
+
+<h3 align="left">📊 GitHub Statistics</h3>
+
+<p align="center">
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=tamayasara&layout=compact&theme=tokyonight" alt="Most Used Languages" />
 </p>
 
-<p>
-  &nbsp;
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=tamayasara&show_icons=true&locale=en" alt="tamayasara" />
+<p align="center">
+  <img src="https://github-stats-extended.vercel.app/api?username=tamayasara&show_icons=true&theme=tokyonight" alt="GitHub Statistics" />
 </p>
+
 
 <!-- GITHUB STREAK -->
 <p>
